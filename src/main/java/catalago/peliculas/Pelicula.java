@@ -23,4 +23,6 @@ public class Pelicula {
         System.out.println("Titulo: "+duracion+" minutos");
         System.out.println("Genero: "+genero);
     }
+
+
 }
